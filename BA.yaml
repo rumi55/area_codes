@@ -23,32 +23,32 @@
   area_code: '62'
 - name: Mobile Phones - Eronet
   area_code: '63'
-- name: Mobile Phones - Moblna Skpske
+- name: Mobile Phones - Mtel
   area_code: '65'
-- name: Mrkonjic' Grad
+- name: Mrkonjic Grad
   area_code: '50'
-- name: Posavska Županija
+- name: Posavski kanton
   area_code: '31'
 - name: Prijedor
   area_code: '52'
-- name: Sarajevska Županija
+- name: Sarajevski kanton
   area_code: '33'
 - name: Srbinje
   area_code: '58'
-- name: Srednjo
-  area_code: '30'
-- name: Srpsko Sarajevo
+- name: Istočno Sarajevo
   area_code: '57'
 - name: Trebinje
   area_code: '59'
-- name: Tuzlanska Županija
+- name: Tuzlanski kanton
   area_code: '35'
-- name: Unsko
+- name: Unsko-Sanski kanton
   area_code: '37'
-- name: Zapadno
+- name: Zapadno-Hercegovački kanton
   area_code: '39'
-- name: Zenic
+- name: Zeničko-Dobojski kanton
   area_code: '32'
+  - name: Srednjobosanski kanton
+  area_code: '30'
 - name: Zvornik
   area_code: '56'
 - name: Šamac
